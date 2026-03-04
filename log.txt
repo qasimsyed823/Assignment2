@@ -1,0 +1,5 @@
+2026-02-25 10:15:30 INFO Server started
+2026-02-25 10:16:01 ERROR Database connection failed
+2026-02-25 10:16:10 WARNING Memory usage high
+2026-02-25 10:17:45 ERROR Timeout occurred
+2026-02-25 10:18:00 INFO User logged in
